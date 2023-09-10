@@ -1,8 +1,8 @@
 import NavBar from "../header/components/Nav";
 import Footer from "../footer/footer";
-import axios from 'axios'
-import Image from "next/image";
-import request from "request"
+
+
+
 import { document } from "postcss";
 export default function Tracking() {
 
